@@ -294,12 +294,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Real-time file watching
 - [ ] Project templates for Gradle 9
 
-## 📞 Support
-
-For issues, questions, or contributions:
-- Open an issue on GitHub
-- Email: support@example.com
-- Documentation: [Wiki](https://github.com/yourusername/gradle-migration-helper/wiki)
 
 ## 🙏 Acknowledgments
 
