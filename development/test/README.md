@@ -20,7 +20,7 @@ test/
 
 ### 1. Ensure Server is Running
 ```bash
-cd /Users/zeji/Documents/hobby/gradle-version-migration-tool
+cd gradle-version-migration-tool
 ./gradlew libertyRun
 ```
 
@@ -31,31 +31,31 @@ Navigate to: **http://localhost:9080**
 
 #### Simple Project
 ```
-/Users/zeji/Documents/hobby/gradle-version-migration-tool/development/test/simple-project
+ cd development/test/simple-project
 ```
 **Expected**: 8-10 issues
 
 #### Multi-Module Project
 ```
-/Users/zeji/Documents/hobby/gradle-version-migration-tool/development/test/multi-module-project
+cd development/test/multi-module-project
 ```
 **Expected**: 15-20 issues, 3 modules
 
 #### Advanced Issues Project
 ```
-/Users/zeji/Documents/hobby/gradle-version-migration-tool/development/test/advanced-issues-project
+cd development/test/advanced-issues-project
 ```
 **Expected**: 12-15 issues
 
 #### Clean Project
 ```
-/Users/zeji/Documents/hobby/gradle-version-migration-tool/development/test/clean-project
+cd development/test/clean-project
 ```
 **Expected**: 0 issues
 
 #### Mixed Scenarios Project
 ```
-/Users/zeji/Documents/hobby/gradle-version-migration-tool/development/test/mixed-scenarios-project
+cd development/test/mixed-scenarios-project
 ```
 **Expected**: 6-8 issues
 
